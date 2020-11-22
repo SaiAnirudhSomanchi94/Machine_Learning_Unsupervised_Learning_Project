@@ -1,9 +1,9 @@
 # Machine_Learning_Unsupervised_Learning_Project
 Project Team Details
-11920065 Vamshi Krishna B
-11920032 Satya Arun Manohar
-11920042 Somanchi Sai Anirudh
-11920058 Pooja Mishra
+<p>11920065 Vamshi Krishna B
+<p>11920032 Satya Arun Manohar
+<p>11920042 Somanchi Sai Anirudh
+<p>11920058 Pooja Mishra
 
 Goals and Objectives:
 1) Perform an Exploratory data analysis on the data and identify the most important features
