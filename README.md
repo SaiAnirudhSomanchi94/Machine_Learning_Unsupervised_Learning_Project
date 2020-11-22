@@ -15,4 +15,4 @@ Goals and Objectives:
 7) Perform forecasting analysis on the data
 
 Data Collection:
-Sample – Superstore sales:
+Sample – Superstore sales
